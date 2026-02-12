@@ -102,7 +102,7 @@ src/
 ### 1️⃣ Clone the repository
 
 ```bash
-git clone https://github.com/your-username/interview-prep-board.git
+git clone https://github.com/abhikainthla/-Interview-Question-Practice-Board.git
 ```
 ### 2️⃣ Navigate to project folder
 
